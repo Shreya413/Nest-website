@@ -148,19 +148,19 @@ hr{
 
 /*About Section*/
 
-.padding img{
+.about img{
     display: inline-block;
     border-radius: 100px 0 100px 0;
     box-shadow: -15px 0 #a7c44c;
     margin-top: 60px;
 }
 
-.padding{
+.about{
 padding: 120px 0;
 background: #f6f6f6;
 }
 
-.padding h2{
+.about h2{
 margin: 0 0 20px 0;
 font-weight: 600;
 font-size: 34px;
@@ -169,14 +169,14 @@ text-transform: uppercase;
 }
 
 
-.padding h3{
+.about h3{
 font-size: 20px;
 text-transform: uppercase;
 font-weight: 500;
 margin-top: 80px;
 }
 
-.padding p{
+.about p{
 line-height: 24px;
 margin: 15px 0 30px;
 font-size: 17px;
